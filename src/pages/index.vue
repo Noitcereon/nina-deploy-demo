@@ -24,12 +24,9 @@ onMounted(() => {
       <section class="grid lg:grid-cols-3 w-full mt-6 gap-3">
         <div class="flex justify-center bg-pink-200 dark:bg-opacity-20 rounded-md p-2">
           <div>
-            <h2 class="block text-3xl text-center">Column 1</h2>
+            <h2 class="block text-3xl text-center">Dette er stadigvæk kolonne 1, men på dansk!</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum
-              natus maxime officiis temporibus dolor itaque laboriosam
-              architecto consequuntur magni. Autem, natus repudiandae iste
-              temporibus unde itaque rem maxime ratione voluptas.
+              Der er noget nyt tekst i kolonnen! (05-09-2022)
             </p>
           </div>
         </div>
