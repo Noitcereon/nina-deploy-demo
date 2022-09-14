@@ -36,8 +36,7 @@ onMounted(() => {
             Lorem ipsum, dolor sit amet consectetur adipisicing elit.
             Repellendus dolorem optio aspernatur quidem tempora eaque
             reprehenderit, assumenda non maxime dolores necessitatibus debitis
-            corrupti eveniet minima asperiores excepturi distinctio. Cum,
-            laborum!
+            corrupti eveniet!
           </div>
         </div>
         <div class="flex justify-center bg-pink-400 dark:bg-opacity-20 rounded-md p-2">
